@@ -16,16 +16,18 @@ Time to reflect and scare the fog away.
 Won't help If I stay cowardly in my cave.
 I think of myself and my birth.
 Born upside down, wrong way around.
-But luckily I have found that this perspective, wrongly described as defective, is reflective and affective into lands.
+But luckily I have found that this perspective, wrongly described as defective, is reflective and affective to the lands.
 Lands of green that I travel while I unravel the mysteries of this world and the clouds.
 Clouds of white that show me the faces of the people around.
 The people around me, that call me and applaud me for being myself!
 So I sit down, Log in to ask myself again!
 ```
-Why do you care so much for all those lies you've been feed?!
+Why do you care so much for all those lies you've been fed?!
 Why can't you see that from your chains you've been freed?!
+Yet instead you choose blind yourself with mist!
 The locks around your wrists and neck are broken since you haven spoken your true name!
 So say, why can't accept that you are good?
-That you are enough being you?
+Why don't you feed yourself some truth?
+You are enough being you.
 ```
 I'm log in off again.
