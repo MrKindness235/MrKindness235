@@ -10,8 +10,7 @@
 <div align="center">
   
 &ensp;[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:sol.puentereal@gmail.com)
-&ensp;[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sol-puente/)
-&ensp;[<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />](https://www.instagram.com/solpuente_/)
+&ensp;[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />]([https://www.linkedin.com/in/sol-puente/](https://github.com/MrKindness235))
 &ensp;[<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">](https://github.com/solp22)
 &ensp;[<img src="https://img.shields.io/badge/Slack-7D4698.svg?style=for-the-badge&logo=Slack&logoColor=white">](https://holberton-school-org.slack.com/U04ML9LQX1T)
   
