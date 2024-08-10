@@ -9,7 +9,6 @@
 
 <div align="center">
   
-&ensp;[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:patriciocoitino235@gmail.com)
 &ensp;[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/patricio-coiti%C3%B1o-95a7aa2b5/)
 &ensp;[<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">](https://github.com/MrKindness235)
   
